@@ -60,7 +60,7 @@ The dashboard is built using **Power BI**, utilizing multiple CSV files as data 
 
 ## 📌 Author
 
-**Ritika Vats**  
+**Ritika Shailja**  
 Power BI | Data Analysis | Dashboard Developer  
 GitHub: [Ritika-48](https://github.com/Ritika-48)
 
