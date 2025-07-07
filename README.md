@@ -5,10 +5,10 @@ This repository contains a Power BI dashboard project that analyzes credit card 
 ## 📊 Project Overview
 
 The goal of this project is to create an interactive dashboard for:
-- Analyzing customer details
-- Visualizing transaction patterns
-- Understanding regional usage trends
-- Monitoring credit card adoption
+- Analyzing customer details.
+- Visualizing transaction patterns.
+- Understanding regional usage trends.
+- Monitoring credit card adoption.
 
 The dashboard is built using **Power BI**, utilizing multiple CSV files as data sources.
 
